@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xioma-m
 - 👀 I’m interested in videogames, programming, illustration, animation and books.
-- 🌱 I’m currently learning python and animation. I'm also practicing what I've already learned.
+- 🌱 I’m currently learning java and animation. I'm also practicing what I've already learned.
 - 💞️ I’m looking to collaborate on code, page design projects.
 - 📫 How to reach me: xioma.mcastillo@gmail.com
 
